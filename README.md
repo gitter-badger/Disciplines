@@ -1,4 +1,4 @@
-## Gathered experts collaborate with Julia
+## Julia collaborates with domain experts
 
 
 
