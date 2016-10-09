@@ -1,5 +1,7 @@
 
 ## Julia gathers expert collaborations
+
+[![Join the chat at https://gitter.im/JuliaPraxis/Disciplines](https://badges.gitter.im/JuliaPraxis/Disciplines.svg)](https://gitter.im/JuliaPraxis/Disciplines?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ```
 Packages are linked with each [Julia](#).  Guidance on conformant Julia follows each [__field__]().
 ```
