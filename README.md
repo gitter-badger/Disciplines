@@ -1,6 +1,6 @@
 ### Julia gathers expert collaborations
 
-Clicking _Julia_ carries you to their package repositories.  Touch the _field_ for their Julia advise.
+Their packages link with each [__Julia__](#).  Guidance on conformant Julia follows each [__field__]().
 
 &nbsp;&nbsp;&nbsp;&nbsp;
    
