@@ -6,7 +6,7 @@
 
     
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+   packages       guidelines
    
 
 *  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)
