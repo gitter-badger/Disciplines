@@ -1,4 +1,4 @@
-## Julia gathers collaborative experts
+## Julia gathers expert collaborations
 
 
 
