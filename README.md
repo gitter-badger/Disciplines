@@ -9,12 +9,12 @@ Packages are linked with each [Julia](#).  Guidance on conformant Julia follows 
 *  [Julia](https://github.com/JuliaAstro)&thinsp;[**Astro**](https://github.com/JuliaPraxis/Disciplines/wiki/Astro)  
 *  [Julia](https://github.com/JuliaCI)&thinsp;[**CI**](https://github.com/JuliaPraxis/Disciplines/wiki/CI)
 *  [Julia](https://github.com/JuliaData)&thinsp;[**Data**](https://github.com/JuliaPraxis/Disciplines/wiki/Data)
-&nbsp;        
+&nbsp;
 *  [Julia](https://github.com/JuliaDB)&thinsp;[**DB**](#)    
 *  [Julia](https://github.com/JuliaDiff)&thinsp;[**Diff**](#)    
 *  [Julia](https://github.com/JuliaDiffEq)&thinsp;[**DiffEq**](#)        
 *  [Julia](https://github.com/JuliaDistributions)&thinsp;[**Distributions**](#)      
-&nbsp;        
+&nbsp;
 *  [Julia](https://github.com/JuliaDSP)&thinsp;[**DSP**](#)    
 *  [Julia](https://github.com/JuliaGeometry)&thinsp;[**Geometry**](#)    
 *  [Julia](https://github.com/JuliaGL)&thinsp;[**GL**](#)    
