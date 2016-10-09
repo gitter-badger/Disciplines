@@ -16,7 +16,6 @@
 *  [Julia](https://github.com/JuliaDiffEq)&thinsp;[**DiffEq**](#)        
 *  [Julia](https://github.com/JuliaDistributions)&thinsp;[**Distributions**](#)      
 &nbsp;        
-
 *  [Julia](https://github.com/JuliaDSP)&thinsp;[**DSP**](#)    
 *  [Julia](https://github.com/JuliaGeometry)&thinsp;[**Geometry**](#)    
 *  [Julia](https://github.com/JuliaGL)&thinsp;[**GL**](#)    
