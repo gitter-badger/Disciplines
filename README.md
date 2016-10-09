@@ -1,6 +1,6 @@
 ### Julia gathers expert collaborations
 
-Their packages link with each [__Julia__](#).  Guidance on conformant Julia follows each [__field__]().
+Packages are link with each [__Julia__](#).  Guidance on conformant Julia follows each [__field__]().
 
 &nbsp;&nbsp;&nbsp;&nbsp;
    
