@@ -1,12 +1,8 @@
 ### Julia gathers expert collaborations
 
+Clicking _Julia_ carries you to their package repositories.  Touch the _field_ for their Julia advise.
 
-
-
-
-    
 &nbsp;&nbsp;&nbsp;&nbsp;
-   packages       guidelines
    
 
 *  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)
