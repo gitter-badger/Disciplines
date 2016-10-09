@@ -1,6 +1,6 @@
 ## Julia gathers expert collaborations
 &nbsp;
-```### Packages are linked with each [Julia](#).  Guidance on conformant Julia follows each [__field__]().```
+```Packages are linked with each [Julia](#).  Guidance on conformant Julia follows each [__field__]().```
 &nbsp;
 &nbsp;
 *  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)  
