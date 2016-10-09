@@ -9,7 +9,7 @@
 *  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)
 *  [Julia](https://github.com/JuliaAstro)&thinsp;[**Astro**](#)
 *  [Julia](https://github.com/JuliaCI)&thinsp;[**CI**](#)
-*  [Julia](https://github.com/JuliaData)&thinsp;[**Data**](#)
+*  [Julia](https://github.com/JuliaData)&thinsp;[**Data**](#)    
     
     
 *  [Julia](https://github.com/JuliaDB)&thinsp;[**DB**](#)
