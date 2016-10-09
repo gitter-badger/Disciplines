@@ -1,5 +1,4 @@
-# Disciplines
-##[collaborative regions of shared expertise](https://github.com/JuliaPraxis/Disciplines/wiki/Experts-in-Collaboration)
+## Gathered experts collaborate with Julia
 
 
 
