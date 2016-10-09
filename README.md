@@ -5,9 +5,9 @@ Packages are linked with each [Julia](#).  Guidance on conformant Julia follows 
 &nbsp;
 &nbsp;
 *  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)  
-*  [Julia](https://github.com/JuliaAstro)&thinsp;[**Astro**](#)  
-*  [Julia](https://github.com/JuliaCI)&thinsp;[**CI**](#)  
-*  [Julia](https://github.com/JuliaData)&thinsp;[**Data**](#)    
+*  [Julia](https://github.com/JuliaAstro)&thinsp;[**Astro**](https://github.com/JuliaPraxis/Disciplines/wiki/Astro)  
+*  [Julia](https://github.com/JuliaCI)&thinsp;[**CI**](https://github.com/JuliaPraxis/Disciplines/wiki/CI)
+*  [Julia](https://github.com/JuliaData)&hinsp;[**Data**](https://github.com/JuliaPraxis/Disciplines/wiki/Data)
 &nbsp;        
 *  [Julia](https://github.com/JuliaDB)&thinsp;[**DB**](#)    
 *  [Julia](https://github.com/JuliaDiff)&thinsp;[**Diff**](#)    
