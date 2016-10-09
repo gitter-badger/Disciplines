@@ -6,16 +6,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
    
 
-*  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)
-*  [Julia](https://github.com/JuliaAstro)&thinsp;[**Astro**](#)
-*  [Julia](https://github.com/JuliaCI)&thinsp;[**CI**](#)
+*  [Julia](https://github.com/JuliaArrays)&thinsp;[**Arrays**](https://github.com/JuliaPraxis/Disciplines/wiki/Arrays)  
+*  [Julia](https://github.com/JuliaAstro)&thinsp;[**Astro**](#)  
+*  [Julia](https://github.com/JuliaCI)&thinsp;[**CI**](#)  
 *  [Julia](https://github.com/JuliaData)&thinsp;[**Data**](#)    
-    
-    
+&nbsp;        
 *  [Julia](https://github.com/JuliaDB)&thinsp;[**DB**](#)
 *  [Julia](https://github.com/JuliaDiff)&thinsp;[**Diff**](#)
-*  [Julia](https://github.com/JuliaDiffEq)&thinsp;[**DiffEq**](#)
-*  [Julia](https://github.com/JuliaDistributions)&thinsp;[**Distributions**](#)    
+*  [Julia](https://github.com/JuliaDiffEq)&thinsp;[**DiffEq**](#)    
+*  [Julia](https://github.com/JuliaDistributions)&thinsp;[**Distributions**](#)      
+&nbsp;        
+
     
     
 *  [Julia](https://github.com/JuliaDSP)&thinsp;[**DSP**](#)
